@@ -2,6 +2,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Login bug fixed
 
+//Stock alert feature
+
+//stock alert validation added 
+
+
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
