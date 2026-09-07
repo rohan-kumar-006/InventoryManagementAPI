@@ -3,6 +3,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Login bug fixed
 
 // Add services to the container.
+
+// Product search validation added
+
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
 
