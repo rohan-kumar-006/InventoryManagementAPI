@@ -6,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 //stock alert validation added 
 
+// Stock alert email notification added
 
 // Add services to the container.
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
